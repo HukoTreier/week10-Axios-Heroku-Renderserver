@@ -1,6 +1,5 @@
 const express = require('express');
 const axios = require('axios');
-
 const app = express();
 
 app.set('view engine', 'ejs'); // täpsustab view enginet
